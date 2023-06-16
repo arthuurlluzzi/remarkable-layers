@@ -259,7 +259,7 @@ python-versions = "*"
 
 [[package]]
 name = "numpy"
-version = "1.19.4"
+version = "1.24.3"
 description = "NumPy is the fundamental package for array computing with Python."
 category = "main"
 optional = false
