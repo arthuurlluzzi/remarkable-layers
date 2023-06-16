@@ -5,7 +5,7 @@ description = ""
 authors = ["Blair Azzopardi <blairuk@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.11"
 lxml = { version = "^4.5.1" }
 svgpathtools = { git = "https://github.com/mathandy/svgpathtools.git", rev = "f99f9d6bb3519ecdcb7b167f75a09178595cf89c" }
 rmapy = {git = "https://github.com/bsdz/rmapy.git", rev = "master"}
